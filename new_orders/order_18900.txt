@@ -1,0 +1,4 @@
+Order Number:	18900
+Purchase Date:  08/16/2020
+Order:		GMK White on Black
+Payment:	Credit
